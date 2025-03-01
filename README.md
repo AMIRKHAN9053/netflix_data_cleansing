@@ -73,10 +73,7 @@ SELECT * FROM Netflix2021 LIMIT 10;
 - **MySQL Workbench** – Query Execution & Analysis
 - **Python (Optional)** – Future Data Visualization
 
-## Author
-👤 **Your Name**  
-📧 [Your Email]  
-🔗 [Your LinkedIn/GitHub Profile]
+
 
 ## Contributing
 Pull requests are welcome! Feel free to improve or optimize the SQL queries.
